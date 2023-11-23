@@ -2,6 +2,10 @@
 Robot Dog
 
 DIY SPOT Dog Kinematic test
+
+![Screenshot 2023-11-23 101418](https://github.com/YakrooThai/Spot-Micro-Dog/assets/56666070/606787e0-567d-4b20-a475-8f36043a4377)
+
+
 https://www.youtube.com/shorts/s4rfqYI7mYU
 
 https://www.youtube.com/watch?v=L_UgCWC2Mdc&t=2s
