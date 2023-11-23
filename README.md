@@ -1,6 +1,9 @@
 # Spot-Micro-Dog
 Robot Dog
 
+DIY SPOT Dog Kinematic test
+https://www.youtube.com/shorts/s4rfqYI7mYU
+
 https://www.youtube.com/watch?v=L_UgCWC2Mdc&t=2s
 
 https://www.youtube.com/shorts/c6m-B36I_34
