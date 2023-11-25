@@ -1,5 +1,8 @@
 # Spot-Micro-Dog
 Robot Dog
+![jkhiuyii](https://github.com/YakrooThai/Spot-Micro-Dog/assets/56666070/42d179fc-6cf4-4ae6-aa3a-3165c1ca94f8)
+
+https://www.youtube.com/watch?v=1-sNeuZ_vgM
 
 DIY SPOT Dog Kinematic test
 
